@@ -36,6 +36,10 @@ public class ItemService {
         System.out.println("testtesttest");
         System.out.println("111111111111");
         System.out.println("22222222222");
+        System.out.println("44444444444");
+        System.out.println("555555555555");
+        System.out.println("666666666666");
+        System.out.println("77777777777");
         return ITEM_MAP.get(id);
     }
 
