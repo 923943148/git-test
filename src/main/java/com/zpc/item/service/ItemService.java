@@ -31,7 +31,7 @@ public class ItemService {
      * @return
      */
     public Item queryItemById(Long id) {
-        System.out.println("当前端口为：8085");
+        System.out.println("当前端口为：8088");
         return ITEM_MAP.get(id);
     }
 
