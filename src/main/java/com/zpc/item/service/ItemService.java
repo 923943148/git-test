@@ -34,6 +34,8 @@ public class ItemService {
         System.out.println("当前端口为：8081");
 
         System.out.println("testtesttest");
+        System.out.println("111111111111");
+        System.out.println("22222222222");
         return ITEM_MAP.get(id);
     }
 
